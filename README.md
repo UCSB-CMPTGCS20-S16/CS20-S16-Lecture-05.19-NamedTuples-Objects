@@ -32,4 +32,11 @@ class Object(object):
 >>>
 ```
 
+More on this crazy way of making a "class" here:  [MonkeyPatchedObjects.md](MonkeyPatchedObjects.md)
+
+What is more commonly done is something like this:
+
+
+
+
 
